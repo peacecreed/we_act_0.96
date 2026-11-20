@@ -1,4 +1,6 @@
-# WeAct 0.96" theme and image / monitor cycle (for turing-smart-screen-python)
+# WeAct 0.96" 
+
+##A custom neon like theme and image / monitor cycle (for turing-smart-screen-python)
 
 Small add-on for [turing-smart-screen-python](https://github.com/mathoudebine/turing-smart-screen-python)
 that alternates the system monitor with a full-screen image, e.g. 15 s monitor, then 5 s image, then back.
